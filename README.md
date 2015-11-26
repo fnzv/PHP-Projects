@@ -1,2 +1,2 @@
 # PHP-Projects
-Some PHP scripts i wrote
+Some PHP (g)old scripts i wrote
