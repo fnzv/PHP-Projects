@@ -1,4 +1,9 @@
  <?php 
+ /* Wifi Personal Tracker Copyright (C) 2015 Sami Yessou
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it under certain conditions*/
+ 
+ 
 $db=mysql_connect("localhost","user","password") or die ("Can't connect to db");
 mysql_select_db("database") or die ("Can't find db");
 $sql= "SELECT * FROM WigleWifiDB";
