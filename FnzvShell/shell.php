@@ -14,7 +14,7 @@ echo "<h2>TOOLS:</h2>";
 echo "ZIP + DUMP = DOWNLOAD";
 echo "<form method='post' action='".$_SERVER['PHP_SELF']."' >
 <input type='submit' value='DUMP DATA' name='dumpit'>
-YOU CAN FIND UR DUMPED DATA ON THE FILE LIST BELOW M8
+YOU CAN FIND UR DUMPED DATA BELOW 
 
 </form>";
 echo "DELETE FILE:";
